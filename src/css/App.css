@@ -1,0 +1,22 @@
+/* font face */
+
+@font-face {
+    font-family: "Poppins";
+    src: url("../fonts/Poppins-Bold.ttf") format("ttf");
+    font-weight: 300;
+    font-style: normal;
+}
+
+.App {
+    background-color: hsl(0, 0%, 86%);
+    height: 100vh;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}

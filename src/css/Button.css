@@ -1,0 +1,36 @@
+.submit-button {
+    padding: 1.5rem 0 1.5rem 0;
+    position: relative;
+}
+
+
+button {
+    position: absolute;
+    background-color: hsl(259, 100%, 65%);
+    border: none;
+    border-radius: 50%;
+    padding: 0.8rem;
+    right: 1rem;
+    top: 50%;
+    transform: translate(50%, -50%);
+}
+
+button:hover {
+    background-color: hsl(0, 0%, 8%);
+    cursor: pointer;
+}
+
+button>svg {
+    width: 32px;
+    height: 32px;
+}
+
+hr {
+    border: solid 0.5px hsl(0, 0%, 86%);
+}
+
+@media screen and (max-width: 375px) {
+    button {
+        right: 50%;
+    }
+}

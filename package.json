@@ -1,5 +1,5 @@
 {
-  "homepage": "http://hollepat.github.io/age-calculator-app",
+  "homepage": "https://hollepat.github.io/age-calculator-app",
   "name": "age-calculator-app",
   "version": "0.1.0",
   "private": true,
@@ -11,7 +11,9 @@
     "@types/node": "^16.18.85",
     "@types/react": "^18.2.60",
     "@types/react-dom": "^18.2.19",
+    "moment": "^2.30.1",
     "react": "^18.2.0",
+    "react-countup": "^6.5.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",

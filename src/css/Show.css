@@ -1,0 +1,21 @@
+.result > div {
+    font-size: 4rem;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-weight: 800;
+}
+
+.result > div > label {
+    color: hsl(0, 0%, 8%);
+}
+
+.result > div > span {
+    color: hsl(259, 100%, 65%);
+    letter-spacing: 5px;
+}
+
+@media screen and (max-width: 600px){
+    .result>div {
+        font-size: 10vw;
+    }
+}
