@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/hollepat/age-calculator-app-main.git)
-- Website ULR: [link](https://hollepat.github.io/age-calculator-app-main)
+- Website ULR: [link](https://hollepat.github.io/age-calculator-app/)
 
 ## My process
 
